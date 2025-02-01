@@ -38,3 +38,6 @@ build/
 Library/
 node_modules/
 venv/
+
+### Ignore sensitive application config ###
+src/main/resources/application.properties
